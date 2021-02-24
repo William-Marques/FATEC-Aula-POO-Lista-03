@@ -1,9 +1,5 @@
 import javax.swing.JOptionPane;
 
-
-
-
-
 /*
 2) Um programa que imprima até o “n” termo a seqüência de Fibonacci. Série: 1,1,2,3,5,8,13,21.......
 Por exemplo, imprimir até o 6º termo: 1, 1, 2, 3, 5, 8
